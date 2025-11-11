@@ -1,7 +1,7 @@
 [project]
-name = "add-your-name-here"
+name = "os-schools-test-real-data"
 version = "0.1.0"
-description = "Add your description here"
+description = "This repo contains code to test the end-to-end process with real data."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
